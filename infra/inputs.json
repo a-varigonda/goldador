@@ -11,7 +11,9 @@
       "Hef50",
       "SamEthanMathew"
     ],
-    "non_admins": []
+    "non_admins": [
+      "bmood25"
+    ]
   },
   "andrew_ids": {
     "admins": [
@@ -25,7 +27,9 @@
       "hareshmu",
       "semathew"
     ],
-    "non_admins": []
+    "non_admins": [
+      "bmood"
+    ]
   },
   "teams": {
     "goldador": {
